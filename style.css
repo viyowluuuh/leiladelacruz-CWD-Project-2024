@@ -1,0 +1,172 @@
+/* NAVIGATION*/
+
+nav {
+    background-color: #FFF2F9;
+}
+
+nav i{
+    color: #323232;
+}
+
+nav li a{
+    color: #323232;
+    font-family: "Manrope", sans-serif;
+}
+
+img.logo_white{
+    width: 60px;
+}
+
+.logoname {
+    font-family: "Atma", system-ui;
+    font-weight: 600;
+    font-style: normal;
+}
+
+ul.dropdown-content a{
+    font-family: "Manrope", sans-serif;
+    color:#323232;
+}
+
+/* SLIDER */
+.slider h2{
+    font-family: "Atma", system-ui;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.slider h5{
+    font-family: "Manrope", sans-serif;
+}
+
+.slider a{
+    font-family: "Manrope", sans-serif;
+    font-size:large;
+}
+
+a.btn {
+    border-radius: 50px;
+    background: #FA4EAB;
+}
+
+a.btn:hover{
+    border-radius: 50px;
+    background: #FFF2F9;
+    color: #323232;
+}
+
+/* ABOUT SECTION */
+
+img.about-logo{
+    width: 300px;
+    margin-top: auto;
+    transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+img.about-logo:hover{
+    width: 325px;
+}
+
+.section h5{
+    font-family: "Manrope", sans-serif;
+}
+
+.groom-fashion h5{
+    font-family: "Atma", system-ui;
+    font-weight: 600;
+    color: #FA4EAB;
+}
+.groom-fashion blockquote{
+    font-family: "Manrope", sans-serif;
+}
+
+.parallax-container {
+    height: 400px;
+    color: #FFF2F9;
+    font-family: "Manrope", sans-serif;
+}
+
+/* PARALLAX 1 */
+.parallax-container h3{
+    font-weight: 700;
+}
+.vertical-center {
+    margin: 0;
+    position: relative;
+    top: 40%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+/* CAROUSEL */
+
+.section h2{
+    font-family: "Atma", system-ui;
+    font-weight: 600;
+    color: #FA4EAB;
+}
+
+.section h6{
+    font-family: "Manrope", sans-serif;
+}
+
+.carousel {
+    font-family: "Manrope", sans-serif;
+}
+
+.carousel .carousel-item {
+    width: 60%;
+}
+
+.carousel .indicators .indicator-item{
+    background-color: #666666;
+}
+
+.carousel .indicators .indicator-item.active{
+    background-color: #FA4EAB;
+}
+
+/* CONTACT US */
+.contacts-section{
+    background-color: #323232;
+}
+
+.contacts-section h2{
+    color: #FE83C6;
+}
+
+.contacts-section p{
+    color: #FFF2F9;
+}
+
+.contacts-section i{
+    color:#FFF2F9;
+    transition: all .5s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.contacts-section i:hover{
+    color:#FA4EAB;
+}
+
+/* GROOMING SERVICES.HTML */
+
+.table-content {
+    position: fixed;
+    font-size: large;
+    font-family: "Manrope", sans-serif;
+}
+
+table thead, tbody{
+    font-family: "Manrope", sans-serif;
+}
+
+table thead{
+    font-family: "Manrope", sans-serif;
+    font-size: large;
+    background: #FFF2F9;
+}
+
+.par2 {
+    height: 250px;
+
+}
